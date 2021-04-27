@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1608024509 source:c:\users\hp\onedrive\documents\cg_project\cg_mini_project\main.c
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
